@@ -6,10 +6,10 @@ I'm currently a systems and computer engineering student <3 but I have a little 
 
 
 
-#MajoLover
-
-#PropiedadDeMajo
-
 #GenshinPlayer
 
+#Hu Tao Simp
 
+
+
+![](C:\Users\andre\Documents\perfil_github\andres-shadow\resources\wallhaven-zyy1xv_1920x1080.png)
