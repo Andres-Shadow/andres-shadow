@@ -8,4 +8,8 @@ I'm currently a systems and computer engineering student <3 but I have a little 
 
 #Hu Tao Simp
 
-![](.\resources\wallhaven-zyy1xv_1920x1080.png)
+
+
+
+
+![](./resources/wallhaven-zyy1xv_1920x1080.png)
