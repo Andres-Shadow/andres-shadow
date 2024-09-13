@@ -13,7 +13,7 @@ Hello! My name is Andrés, but on most platforms, I go by the nickname shadow/sh
 ### Experience and Skills
 
 - Proficient in Java (Maven, Gradle, JavaFX).
-- Developed REST API microservices using Golang, TypeScript, JavaScript, -and Python.
+- Developed REST API microservices using Golang, TypeScript, JavaScript, and Python.
 - Knowledgeable in Python and C#.
 - Experience with relational databases like MySQL, SQL Server, Oracle, and PostgreSQL, as well as non-relational databases such as MongoDB.
 - Hands-on experience with Docker and its orchestration tools like Kubernetes, Docker Compose, and Podman.
