@@ -4,7 +4,7 @@
 
 Hello! My name is Andrés, but on most platforms, I go by the nickname shadow/shader. I’m from Colombia and currently pursuing a degree in Systems and Computer Engineering <3. I have hands-on experience as a backend developer, working with Java, Golang, and Node.js (JavaScript & TypeScript). I’m passionate about exploring new technologies, including No-Code and Low-Code platforms.
 
-[Linkedin](https://www.linkedin.com/in/andr%C3%A9s-mauricio-duss%C3%A1n-bastidas-04846426b/) 
+[Linkedin](https://www.linkedin.com/in/andr%C3%A9s-mauricio-duss%C3%A1n-bastidas-04846426b/) [Portfolio](https://andres-dussan-portfolio.netlify.app/)
 
 
 
