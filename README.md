@@ -21,7 +21,7 @@ As a backend developer, my goal is to build scalable, reliable, and efficient sy
 - **[QuickCloud](https://github.com/Andres-Shadow/uqcloud)**: Here’s the translation: desktop computing environment that allows users to opportunistically leverage computing resources through virtualization from any network-connected device.
 - **[Microservices Project](https://github.com/Andres-Shadow/Microservices)**: project for the Microservices Architecture course at the University of Quindío. Features JWT authentication, BDD testing, logging, health monitoring, account management, notifications, and gateway routing. All services are containerized with Docker Compose, integrated with Prometheus for health checks & fully documented with OpenAPI.
 
-Feel free to check out my [GitHub repositories](https://github.com/yourusername) for more of my work!
+Feel free to check out my [GitHub repositories](https://github.com/Andres-Shadow?tab=repositories) for more of my work!
 
 ---
 
