@@ -24,6 +24,8 @@ I strongly believe that great software is not only about making things work, but
 
 * **[Shrinkit](https://github.com/Andres-Shadow/ShrinkIt)**: URL shortener designed as a technical deep dive into Hexagonal Architecture and clean coding. Made with Spring Boot and React, it combines backend rigor with frontend flexibility, creating custom handlers, DTOs, and BASE62 + SHA256 encoding for secure links. ShrinkIt showcases a modular and maintainable full-stack architecture. 🚀
 
+* **[Lightweight Dynamic API Gateway](https://github.com/Andres-Shadow/Gateway))**: Lightweight, dynamic API Gateway in Go with SQLite persisted routes, in-memory caching, and reverse proxy with simple hot reload.
+
 * **[GreenGo](https://github.com/Andres-Shadow/GreenGo)**: Automated deployment tool built with Go, designed to streamline CI/CD pipelines by monitoring Git repositories and deploying changes efficiently using Docker Compose. Following Green Coding principles, it minimizes resource usage while improving deployment workflows.
 
 * **[QuickCloud](https://github.com/Andres-Shadow/uqcloud)**: Distributed desktop computing environment that allows users to opportunistically leverage computing resources through virtualization from any network-connected device.
